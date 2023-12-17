@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body {
+    background-color: gainsboro;
+    font-family: arial;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: blue;
+}
+.principal {
+    text-align: center;
+    background-color: red;
+}
+
+.basico {
+    color: yellowgreen;
+}
+
+.intermediario {
+    color: yellow;
+}
+
+.avancado {
+    color: black;
+    text-align: inherit;
+}
+
+.destaque {
+    background-color: black;
+}

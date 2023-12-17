@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+
+body{
+    font-family: arial;
+    background-color: wheat;
+}
+
+#projeto > h1 {
+    text-align: center;
+}
+
+#projeto {
+    
+    margin-top: -10px;
+    background-image: linear-gradient(to top, green, rgb(3, 41, 3));
+}
+
+.links {
+    padding: 10px;
+    text-decoration: none;
+}
